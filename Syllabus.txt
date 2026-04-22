@@ -1,0 +1,37 @@
+1 Introducuction 
+histroy 
+why react 
+library vs framework 
+jsx & rules
+probs 
+synthetic event 
+hooks 
+State 
+state vs props
+useState 
+useRef
+useEffect 
+useLayoutEffect 
+useEffectEvent 
+state closer(pitfall of closer)
+useCallBack
+useMemo
+REactConcurrncy 
+use Transition 
+use Deffered  value 
+form handllings 
+use Accetion State 
+react hook from 
+use Reducer
+context api 
+Redux tool kit 
+zustand 
+RTK Query 
+React router dom 
+calss based  commonent 
+react life cycle  metheod 
+performance optimizetion (lazy loding suspence )
+react vertulizetion 
+
+
+
