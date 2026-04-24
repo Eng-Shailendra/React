@@ -1,5 +1,6 @@
 import React from "react";
-
+// import Parent from "./Topic-2 Props/ParentCard";
+import Parent from "./Topic-3 Immutable prop/Parent";
 //! Component
 //? 1) class based Component
 //? 2) function bsed Component
@@ -9,11 +10,10 @@ import React from "react";
 const App = () => {
   return (
     <>
+      <Parent />
       <h1>React learnig</h1>
     </>
   );
 };
-
-
 
 export default App;
