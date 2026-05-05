@@ -38,4 +38,7 @@ react vertulizetion
 what is commonent ? 
 commonent composition is the parctice of calling one commonent inside another commonent;
 
-waht is rend
+waht is render
+
+what is 
+

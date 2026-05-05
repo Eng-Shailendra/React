@@ -1,6 +1,12 @@
 import React from "react";
 // import Parent from "./Topic-2 Props/ParentCard";
-import Parent from "./Topic-3 Immutable prop/Parent";
+// import Parent from "./Topic-3 Immutable prop/Parent";
+// import Parent from "./Topic-5 render prop/parent";
+// import Parent from "./Topic-6 Synthetic Event/Card";
+// import Parent from "./Topic-7 State-Variabel/Counter";
+import Parent from "./Topic-7(B) Condetional rendring/Home";
+
+
 //! Component
 //? 1) class based Component
 //? 2) function bsed Component
